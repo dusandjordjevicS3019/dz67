@@ -1,0 +1,16 @@
+.tabela1 tr td {
+  border: 1px solid black;
+}
+#tabela1 tr:nth-child(odd) {
+  background: darkblue;
+}
+
+#tabela1 tr:nth-child(even) {
+  background: lightblue;
+}
+#tabela2 tr:nth-child(odd) {
+  background: darkblue;
+}
+#tabela2 tr:nth-child(even) {
+  background: lightblue;
+}
